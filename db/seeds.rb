@@ -4,7 +4,7 @@ Product.create!(title: 'Marsh',
       %{
          Proust seems so full of food—crushed strawberries and madeleines,
          tisanes and champagne—.
-      },
+       },
   image_url:   'gypsie.jpg',
   price: 36.00)
 # . . .
